@@ -9,7 +9,7 @@ Presentasjoner fra Teknologiforum 2018. Disse tilfredsstiller ikke kravene til u
 
 # Sesjon B
 
-[Bruk av lineære referanser til analyseformål PDF](lineare_referanser_nvdb_svv_jensen.pdf). 
+[Bruk av lineære referanser i NVDB til analyseformål](lineare_referanser_nvdb_svv_jensen.pdf). 
 Jan Kristian Jensen (Statens Vegvesen)
 
 # Sesjon C
