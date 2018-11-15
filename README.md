@@ -19,7 +19,8 @@ Tore Freddy Bæk (Kartverket)
 [Dynamiske data, utfordringer, muligheter og sporing av beslutninger](Dynamiske_data_utfordringer_muligheter_poring_beslutninger_metno_OysteinGodoy.pdf)
 Øystein Godøy (Meteorologisk institutt)
 
-[Finansieringsmodell for nasjonal geografisk infrastruktur]( Finansieringsmodell_geografisk_infrastruktur_KMD_Kari Strande.pdf)
+
+[Finansieringsmodell for nasjonal geografisk infrastruktur](Finansieringsmodell_geografisk_infrastruktur_KMD_Kari Strande.pdf)
 Kari Strande (Kommunal- og moderniseringsdepartementet)
 
 
