@@ -34,8 +34,8 @@ Sektor
 Stein Bjørnstad (Deloitte)
 
 
-[Levin Smartere transportsystem med sensorteknologi PDF](smartere_transport_m_sensor_svv_levin.pdf) 
-Smartere transportsystem med kreativ bruk av sensorer og dataforedling. Tomas Levin (Statens Vegvesen)
+[Smartere transportsystem med kreativ bruk av sensorer og dataforedling](smartere_transport_m_sensor_svv_levin.pdf) 
+Tomas Levin (Statens Vegvesen)
 
 
 Autonome fartøy Ørnulf Rødseth (SINTEF Ocean, Maritime robotics)
@@ -65,8 +65,8 @@ og i framtida?
 Christian Rost (Norsk
 Romsenter)
 
-[Tore Jensen storymap](https://arcg.is/0rfraW) Bruk av Web Coverage
-Service fra høydedata.no i analyser. Tore Jensen (Geodata A/S)
+[Bruk av Web Coverage Service fra høydedata.no i analyser](https://arcg.is/0rfraW) 
+Tore Jensen (Geodata A/S)
 
 
 Web Feature Service 3.0
