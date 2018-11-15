@@ -5,7 +5,7 @@ Presentasjoner fra Teknologiforum 2018. Disse tilfredsstiller ikke kravene til u
 
 # Felles (plenumsesjoner)
 
-Handlingsplan for nasjonal geodatastrategi
+[Handlingsplan for nasjonal geodatastrategi](Handlingsplan_nasjonal_geodatastrategi_ErikPerstuen.pdf)
 Erik Perstuen (Kartverket)
 
 
@@ -19,7 +19,7 @@ Tore Freddy Bæk (Kartverket)
 [Dynamiske data, utfordringer, muligheter og sporing av beslutninger](Dynamiske_data_utfordringer_muligheter_poring_beslutninger_metno_OysteinGodoy.pdf)
 Øystein Godøy (Meteorologisk institutt)
 
-Finansieringsmodell for nasjonal geografisk infrastruktur
+[Finansieringsmodell for nasjonal geografisk infrastruktur]( Finansieringsmodell_geografisk_infrastruktur_KMD_Kari Strande.pdf)
 Kari Strande (Kommunal- og moderniseringsdepartementet)
 
 
@@ -51,8 +51,8 @@ Realisering i GML og SOSIformat.
 Realisering av Plan 5.0.
 Jostein Amlien (Kartverket)
 
-Informasjonssikkerhet i den
-norske geodatainfrastrukturen
+[Informasjonssikkerhet i den
+norske geodatainfrastrukturen](KnutSaelid_Informasjonssikkerhet_norske_geodatainfrastruktur.pdf)
 Knut Sælid (Kartverket)
 
 
@@ -73,7 +73,7 @@ prosjekter
 Oskar Henriksen (Oskar
 Henriksen AS)
 
-Bruken av Inspirespesifikasjonene innen miljørapportering
+[Bruken av Inspirespesifikasjonene innen miljørapportering](Lars-Christensen_Miljodirektoratet_inspire_teknologiforum_2018.pdf)
 Lars Christensen
 (Miljødirektoratet)
 
