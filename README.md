@@ -151,9 +151,9 @@ Roy Mellum (Kartverket)
 
 # Sesjon C
 
-Vector tiles i praksis -
+[Vector tiles i praksis -
 erfaringer fra
-artsdatabanken
+artsdatabanken](VectorTilesArtsdatabanken_NOIS_jarlepedersen.pdf)
 Jarle Pedersen (Norconsult)
 
 Maskinlæring og kunstig
