@@ -20,7 +20,7 @@ Tore Freddy Bæk (Kartverket)
 Øystein Godøy (Meteorologisk institutt)
 
 
-[Finansieringsmodell for nasjonal geografisk infrastruktur](Finansieringsmodell_geografisk_infrastruktur_KMD_Kari Strande.pdf)
+[Finansieringsmodell for nasjonal geografisk infrastruktur](Finansieringsmodell_geografisk_infrastruktur_KMD_Kari_Strande.pdf)
 Kari Strande (Kommunal- og moderniseringsdepartementet)
 
 
