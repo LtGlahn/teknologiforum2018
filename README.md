@@ -93,20 +93,15 @@ Hvordan kan kommunene utnytte NVDB -og hvorfor? Åpne grensesnitt og datafangstl
 Espen Sveen (Statens
 Vegvesen)
 
-Plugin i QGIS
-Tilgang til data om tilgjengelighet og universell utforming
-Kathrin Bögelsack
-(Kartverket), Kasper
-Skjeggestad
+[Plugin i QGIS. Tilgang til data om tilgjengelighet og universell utforming](Plugin_i_QGIS_Tilgjengelighetsdata.pdf)
+Kathrin Bögelsack (Kartverket), Kasper Skjeggestad
 
-Geonorge
-Ny funksjonalitet og tekniske
-løsninger
+[Geonorge Ny funksjonalitet og tekniske løsninger](Lars-Inge-Arnevik_TF_2018Geonorge_Status.pdf)
 Lars-Inge Arnevik (Kartverket)
 
-Terminologi
+[Terminologi
 Status på termbaseprosjektet
-til Kartverket.
+til Kartverket.](181113_Presentasjon_av_termbase.pdf)
 Åsmund Tjora (Kartverket)
 
 Lineære referanser - del 1
@@ -124,7 +119,6 @@ Personvern og det
 påtrengende behovet for
 data om oss. Vil også berøre
 GDPR.
-
 Atle Årnes (Fagdirektør
 teknologi i Datatilsynet)
 
@@ -210,8 +204,7 @@ Frank Arntsen (Kartverket), Jarle
 Pedersen (Norconsult)
 
 Linked Data. Interlinkprosjekt - bruk av linked data gjennom hele
-vegens livsløp. 
-Ingar Skogli (Statens
+vegens livsløp. Ingar Skogli (Statens
 vegvesen)
 
 Smarte byer
