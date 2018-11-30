@@ -33,7 +33,7 @@ Anders Hveem Malum (Skedsmo kommune)
 # Sesjon A
 
 [GIS og BIM - to sider av samme
-sak?](BA-NettverketTeknologiforum2018_gisogbim_sammesak.pdf) og 
+sak?](BA-NettverketTeknologiforum2018_gisogbim_sammesak.pdf), [Åpen informasjonsmodell for utveksling av info om prosjektert veg](Presentasjon_Teknologiforum_20181113_EO_aapenmodell_infoutveksling_veg.pdf) og 
 [dagens og fremtidens dataleveranser for veg](Dagens_og_fremtidens_dataleveranser_for_veg.pdf)
 SOSI-metoden (GIS-standard) benyttet for veg- og baneprosjektering og
 dokumentasjon av ferdig anlegg (BIM for samferdsel og infrastruktur).
@@ -59,20 +59,20 @@ norske geodatainfrastrukturen](KnutSaelid_Informasjonssikkerhet_norske_geodatain
 Knut Sælid (Kartverket)
 
 
-INSPIRE-data gjennom Geonorge
+[INSPIRE-data gjennom Geonorge](Lars-Inge-Arnevik_og_Arvid-Lillethun_TF_2018_Inspire.pdf)
 Lars-Inge Arnevik og Arvid
 Lillethun (Kartverket)
 
-Internasjonal standardisering - hva skjer?
-IHOs Standard 102 - fremtidens navigasjon.
+[Internasjonal standardisering - hva skjer?
+IHOs Standard 102 - fremtidens navigasjon.](InternasjonalStandardiseringIHOsStandardS102.pdf)
 Svein Skjæveland og
 Sølvi Tunge (ECC),
 Jim Pedersen (Kystverket) 
 
-Topographic basemap
+[Topographic basemap
 Ny spesifikasjon for
 Kartverkets internasjonale
-prosjekter
+prosjekter](Oskar-Henriksen_BaseMapSpecification_v3.pdf)
 Oskar Henriksen (Oskar
 Henriksen AS)
 
