@@ -32,8 +32,9 @@ Anders Hveem Malum (Skedsmo kommune)
 
 # Sesjon A
 
-GIS og BIM - to sider av samme
-sak? SOSI-metoden (GIS-standard) benyttet for veg- og baneprosjektering og
+[GIS og BIM - to sider av samme
+sak?](BA-NettverketTeknologiforum2018_gisogbim_sammesak.pdf) 
+SOSI-metoden (GIS-standard) benyttet for veg- og baneprosjektering og
 dokumentasjon av ferdig anlegg (BIM for samferdsel og infrastruktur).
 Inger Hokstad (BA-nettverket)
 Erling Onstein (Arkitektum)
