@@ -33,7 +33,8 @@ Anders Hveem Malum (Skedsmo kommune)
 # Sesjon A
 
 [GIS og BIM - to sider av samme
-sak?](BA-NettverketTeknologiforum2018_gisogbim_sammesak.pdf) 
+sak?](BA-NettverketTeknologiforum2018_gisogbim_sammesak.pdf) og 
+[dagens og fremtidens dataleveranser for veg](Dagens_og_fremtidens_dataleveranser_for_veg.pdf)
 SOSI-metoden (GIS-standard) benyttet for veg- og baneprosjektering og
 dokumentasjon av ferdig anlegg (BIM for samferdsel og infrastruktur).
 Inger Hokstad (BA-nettverket)
