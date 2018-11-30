@@ -166,7 +166,7 @@ Fundator)
 
 Blockchain i Offentlig
 Sektor
-Stein Bjørnstad (Deloitte)
+~~Stein Bjørnstad~~ Arne Magnus Johansen (Deloitte)
 
 
 [Smartere transportsystem med kreativ bruk av sensorer og dataforedling](smartere_transport_m_sensor_svv_levin.pdf) 
@@ -203,9 +203,9 @@ Romsenter)
 Tore Jensen (Geodata A/S)
 
 
-Web Feature Service 3.0
+[Web Feature Service 3.0](Teknologiforum_2018_WFS30.pdf)
 Frank Arntsen (Kartverket), Jarle
-Pedersen (NOIS)
+Pedersen (Norconsult)
 
 Linked Data. Interlinkprosjekt - bruk av linked data gjennom hele
 vegens livsløp. 
